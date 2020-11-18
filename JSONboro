@@ -51,7 +51,14 @@
                     "font": "HelveticaNeue-Bold",
                     "size": "50"
                   }
-                }
+                },
+				{
+				  "type": "html",
+                  "style": {
+                    "height": "300"
+                  },
+				  "text": "<html><body><iframe src=\"https://www.chapelboro.com\" title=\"WCHL 97.9\"><\/iframe><\/body><\/html>"
+				}
               ]
             },
             {
